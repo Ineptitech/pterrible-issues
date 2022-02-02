@@ -4,7 +4,6 @@ about: Create a report to help us improve
 title: ''
 labels: ''
 assignees: ''
-
 ---
 
 **Describe the bug**
@@ -26,3 +25,6 @@ If applicable, add screenshots or screen recordings to help explain your problem
 
 **Additional context**
 Add any other context about the problem here.
+
+**Your Information**
+Discord tag or email that we can use to follow-up with you for further information.

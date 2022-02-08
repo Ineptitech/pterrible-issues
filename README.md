@@ -6,7 +6,10 @@ Pterrible is a one-of-a-kind bot for easily managing your game servers through D
 https://user-images.githubusercontent.com/29155005/152896081-3664e007-71ba-4eb8-bb57-445ea15ca455.mp4
 
 ## Development Status
-This bot is under development and new features are being added consistently. We are always very open to suggestions and ideas. The bot is available to testers for free while it's still in development. Upon release, it will be available for a reasonable monthly subscription. Testers and contributors who provide us with valuable feedback during the alpha will get free or discounted lifetime access, at our discretion. 
+This bot is under development and new features are being added consistently. We are always very open to suggestions and ideas. The bot is available to testers for free while it's still in development. Upon release, it will be available for a reasonable monthly subscription. 
+
+## Want Pterrible for free?
+The bot is free to everyone while still in development! Testers and contributors who provide us with valuable feedback during the alpha will get free or discounted lifetime access upon release, at our discretion. 
 
 To report issues or provide feedback, [go to Issues](https://github.com/Ineptitech/pterrible-issues/issues).
 

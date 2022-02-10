@@ -1,7 +1,7 @@
 # Pterrible
 Issue and feature tracking for Pterrible Discord Bot, created by Ineptitech. ~~For more information, go to [our website](https://ineptitech.com) or [visit the purchase page](#).~~
 
-Pterrible is a one-of-a-kind bot for easily managing your game servers through Discord! It works with the Pterodactyl panel, so it supports a huge number of game hosting providers out of the box! We're currently running an open alpha of the bot, so [continue to the Wiki to get started](wiki) with it now! 
+Pterrible is a one-of-a-kind bot for easily managing your game servers through Discord! It works with the Pterodactyl panel, so it supports a huge number of game hosting providers out of the box! We're currently running an open alpha of the bot, so [continue to the Wiki to get started](https://github.com/Ineptitech/pterrible-issues/wiki) with it now! 
 
 https://user-images.githubusercontent.com/29155005/152896081-3664e007-71ba-4eb8-bb57-445ea15ca455.mp4
 

@@ -27,4 +27,4 @@ If applicable, add screenshots or screen recordings to help explain your problem
 Add any other context about the problem here.
 
 **Your Information**
-Discord tag or email that we can use to follow-up with you for further information.
+Discord tag or email that we can use to follow up with you for further information. Testers who provide valuable feedback will be grandfathered into the full release at a discounted rate or for free, at our discretion. 
